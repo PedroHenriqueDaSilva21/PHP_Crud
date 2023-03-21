@@ -1,2 +1,2 @@
-# PHP_Crud
-Este é um exemplo de CRUD em PHP criado nas aulas de WEB III
+<h1> INTRODUÇÃO </H1>
+<p> Esta é uma aplicação modelo para CRUD em PHP, assim conseguindo executar todas as funções em um banco de dados, usando como framework de estilização o Bootstrap </p>
