@@ -39,8 +39,12 @@ Após clicar em importar, você irá para a página abaixo, agora só basta clic
 
 
 
+
 <h1> Conclusão </h1>
-Agora pronto, apenas entrar em seu navegador e colocar localhost/htdocs/PHP_Crud e utilizar a aplicação
+Agora pronto, apenas entrar em seu navegador e colocar localhost/htdocs/PHP_Crud e utilizar a aplicação.
+
+![xampp_ligado](https://user-images.githubusercontent.com/123130198/228076966-8061a4f8-ef0b-4e81-b39b-8acbfff8e855.png)
+
 
 
 
