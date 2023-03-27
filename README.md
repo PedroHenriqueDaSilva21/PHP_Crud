@@ -7,7 +7,7 @@
 https://www.apachefriends.org/pt_br/index.html
 
 
-Após todas estas aplicações instaladas, devemos ligar os serviços do Apache para termos acesso aos serviços web, e o MySql para conseguirmos efetuar nossas requisições ao banco de dados.
+Após esta aplicação instalada, devemos ligar os serviços do Apache para termos acesso aos serviços web, e o MySql para conseguirmos efetuar nossas requisições ao banco de dados.
 
 ![xampp_ligado](https://user-images.githubusercontent.com/123130198/228073234-6e7e7c37-8888-43d1-abd0-cdf1444c07ff.png)
 
